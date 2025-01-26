@@ -8,12 +8,28 @@ This project is a browser-based application that enables a payroll manager to vi
 
 The application runs directly in the browser. A payroll manager can use the "Add Employee" button to enter employee details, which will be displayed on the page and processed for payroll tracking.
 
+## Instructions
+
+1. Click the **"Add Employee"** button to begin adding employees.
+
+2. You will be prompted to enter the employee's first name, last name, and salary. The salary should be entered as a number; otherwise, it will default to $0.
+
+3. After entering the employee details, choose to **Continue** to add more employees or **Cancel** to finish.
+
+4. Once canceled, the employees will be displayed on the page in a table, sorted alphabetically by last name.
+
+5. The console will display the average salary, the number of employees, and a random employee as a winner of a drawing.
+
 ## Key Features
 
 * **Add Employees:** Prompts the user to input the first name, last name, and salary of multiple employees using a `while` loop.
+
 * **Dynamic Sorting:** Employees are sorted alphabetically by last name.
+
 * **Average Salary Calculation:** Logs the average employee salary and the total number of employees to the console.
+
 * **Random Employee Selection:** Chooses and logs a random employee from the list as a drawing winner.
+
 * **Responsive UI:** Features a polished interface that works across multiple screen sizes.
 
 ## Technology Stack
