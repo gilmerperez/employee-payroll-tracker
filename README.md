@@ -1,12 +1,25 @@
 # Employee Payroll Tracker
 
-## Description
-
 This project is a browser-based application that enables a payroll manager to view and manage employee payroll data. It features dynamically updated HTML and CSS powered by JavaScript, providing a clean, polished, and responsive user interface that adapts to multiple screen sizes.
+
+## Table of Contents
+
+- [Usage](#usage)
+- [Mock Up](#mock-up)
+- [Instructions](#instructions)
+- [Key Features](#key-features)
+- [Technology Stack](#technology-stack)
+- [Additional Resources](#additional-resources)
 
 ## Usage
 
 The application runs directly in the browser. A payroll manager can use the "Add Employee" button to enter employee details, which will be displayed on the page and processed for payroll tracking.
+
+## Mock-Up
+
+The following image shows the web application's appearance and functionality:
+
+![Screenshot](./assets/images/scWebsite.jpg)
 
 ## Instructions
 
